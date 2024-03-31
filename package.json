@@ -1,0 +1,33 @@
+{
+  "name": "licereneebryce",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "licereneebryce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nisjelds/licereneebryce"
+  },
+  "website": "https://github.com/nisjelds/licereneebryce.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "nisjelds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nisjelds/licereneebryce/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/nisjelds/licereneebryce#readme",
+  "dependencies": {
+    "ulasimpsonjuned": "1.0.2"
+  }
+}
